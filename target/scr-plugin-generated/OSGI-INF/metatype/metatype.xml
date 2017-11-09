@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/metatype">
+    <OCD id="com.climate.user.store.internal.component" name="%com.climate.user.store.internal.component.name" description="%com.climate.user.store.internal.component.description"/>
+    <Designate pid="com.climate.user.store.internal.component">
+        <Object ocdref="com.climate.user.store.internal.component"/>
+    </Designate>
+</metatype:MetaData>
